@@ -1,6 +1,24 @@
 {
-  "dependencies": {
-    "bootstrap": "^4.3.1",
-    "save": "^2.5.0"
+  "name": "food-festival",
+  "description": "A progressive web application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charanvir/Food-Festival.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charanvir/Food-Festival/issues"
+  },
+  "homepage": "https://github.com/Charanvir/Food-Festival#readme",
+  "devDependencies": {
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.6.0"
   }
 }
